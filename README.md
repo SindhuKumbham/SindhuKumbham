@@ -53,4 +53,4 @@
 ### 📫 Reach Me
 
 📧 kumbhamsindhu14@gmail.com
-💼 [LinkedIn](https://www.linkedin.com/in/sindhukumbham)
+💼 https://www.linkedin.com/in/kumbham-sindhu-b95034285/
