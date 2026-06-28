@@ -2,7 +2,7 @@
 <h3 align="center">Data Science Student | ML Enthusiast | Open Source Contributor</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sindhukumbham" target="_blank">
+  <a href="https://www.linkedin.com/in/kumbham-sindhu-b95034285/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/SindhuKumbham" target="_blank">
@@ -53,4 +53,5 @@
 ### 📫 Reach Me
 
 📧 kumbhamsindhu14@gmail.com
-💼 https://www.linkedin.com/in/kumbham-sindhu-b95034285/
+💼 [LinkedIn](https://www.linkedin.com/in/kumbham-sindhu-b95034285/)
+
